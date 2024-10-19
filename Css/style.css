@@ -1,0 +1,60 @@
+/* this is a css comment */
+
+/* universal selector */
+*{
+    background-color: rgba(103, 58, 183,1.0); /* reba means red green and blue and opacity */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* css color */
+h1{
+    color: rgb(255, 255, 255); /* reb means red green and blue */
+    background-color: #3498db; /* this os hex code */
+}
+
+/* css border */
+/* css height and width */
+.border{
+    height: 60px; /* fix the height of a element */
+    width: 60px; /* fix the width of a element */
+    border-style: solid; /* fix the border style of a element */
+    border-width: 5px; /* fix the border width of a element */
+    border-color: #e74c3c; /* fix the border color of a element */
+    border-radius: 50%; /* fix the border radius of a element */
+}
+
+/* css margin and padding */
+.m-p{
+    height: 80px;
+    width: 80px;
+    background-color: rgba(255, 193, 7,1.0);
+    margin: 10px; /* margin means the outer section */
+    padding: 10px; /* padding means the inner section*/
+}
+/* this class is only for padding example */
+.p-m{
+    height: 40px;
+    width: 40px;
+    background-color: rgba(76, 175, 80,1.0);
+}
+
+/* css text formatting */
+.tf{
+    color: #ffff; /* for font color */
+    font-size: 25px; /* for font size */
+    font-weight: bold; /* for font width */
+    font-style: normal; /* for font style like italic */
+    font-family: gabriola; /* for font style */
+    font-variant: small-caps; /* convert font to uppercase and every first letter of a word increase the font size */
+    line-height: 20px; /* for font line duration */
+    word-spacing: -1px; /* for word duration */
+    letter-spacing: 1px; /* for letter duration */
+    text-align: justify; /* for text alignment */
+    text-decoration: none; /* for text style */
+    text-transform: capitalize; /* for text transform like uppercase or lower case */
+    overflow: hidden; /* for text overflow */
+    text-indent: 100px; /* for starting text moving  */
+    text-shadow: 10px 10px 10px #000000; /* for text shadow */
+}
