@@ -1,0 +1,52 @@
+html
+https://youtube.com/playlist?list=PLSNRR4BKcowBkHYYumZffsZ3G52hPqRjc&si=BIFNta560UYKxYPE
+
+css
+https://youtube.com/playlist?list=PLSNRR4BKcowDdthpzXLhB85gT6GMupM2o&si=jZIXh5s9nVC-5GxV
+
+bootstrap
+https://youtube.com/playlist?list=PLSNRR4BKcowASvSK4qx9Nz9MNTJC9Up67&si=3qiyKgDqigVghhaA
+
+telwind
+https://www.youtube.com/watch?v=7lmoLxbUENM&list=PLSNRR4BKcowD8Vo0owqLtHhVpSSZ4w6Om
+
+git & git hub
+https://www.youtube.com/watch?v=M-qSAdWFs9c&list=PLSNRR4BKcowDsRb3HHJGhoxaIvtnkOYDW
+
+php
+https://youtu.be/_TST9dVptls?si=D8Zzrrb3CRhc6KAa
+
+https://youtube.com/playlist?list=PLJC7GfA2DHaD4zh_FnTywXIkcEvhI-llA&si=ziz7WzxSahjYqBID
+
+php oop
+https://youtube.com/playlist?list=PLJC7GfA2DHaAFmx7JppHrrFfsCNLeKn9G&si=gptS69Z7P4mO2Cew
+
+my sql
+https://youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD&si=fDFxDPdGBzj6wqav
+
+php with my sql
+https://youtube.com/playlist?list=PLAHFiKplG3t5h28Puv0LFVoJlbUYhFEp7&si=YBpYGk6OZ4h8knfJ
+
+login system in php
+https://youtu.be/ynA4BzJmzH8?si=ysb-w2gT2ft1d042
+
+curd operation in php
+https://youtube.com/playlist?list=PLJC7GfA2DHaCZKUrB4xDBnMjozHaJNCXi&si=Awmy0yXyMbZYArDX
+
+php pagination
+https://youtube.com/playlist?list=PLJC7GfA2DHaAZXVe-Q0Q8opMXrOy2m3Jc&si=OkaHYHjR4CHA7Fvk
+
+sequre php website
+https://youtube.com/playlist?list=PLJC7GfA2DHaCGEDy2K1qZpbBwgB5GlpA7&si=EYrvCJZvz8wP9-TC
+
+Laravel
+https://youtube.com/playlist?list=PLbC4KRSNcMnqS-J6XxwS9YZZL1WhriQat&si=jtiSev3pPwxYEfDM
+
+javascript
+https://youtube.com/playlist?list=PLSNRR4BKcowDMTFWYgMqRHRuohVA6IKiD&si=qRQZq_1vHXAwcGNX
+
+vue js
+https://youtube.com/playlist?list=PL6f7IPPkpDKn0iI2Y5dnEgyrEqw2VvJ2P&si=gXPSk6iCC0OA3eG0
+
+connect vue js in Laravel app
+https://youtu.be/5B18mGGdVG0?si=GrBaZFudaM-h_wIM
